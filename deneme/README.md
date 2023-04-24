@@ -2,4 +2,4 @@
 
 ## Alt Bilgi
 
-patika dev HTML ödev 1
+patika dev HTML ödev 2
